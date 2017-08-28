@@ -16,3 +16,11 @@ $ cd main
 $ npm install
 $ npm start
 ```
+build process
+---
+```bash
+$ git clone https://github.com/shukla2009/assignment-main.git
+$ cd main
+$ npm install
+$ zip/tar entire app make sure to create with build number
+```
