@@ -11,8 +11,8 @@ steps to run:
 ---
 
 ```bash
-$ git clone <repo>
-$ cd ip-resolver
+$ git clone https://github.com/shukla2009/assignment-main.git
+$ cd main
 $ npm install
 $ npm start
 ```
