@@ -1,0 +1,23 @@
+{
+  "name": "ip-resolver",
+  "version": "1.0.0",
+  "description": "Resolve ip to location",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "Rahul Shukla rahul@wootag.com",
+  "license": "ISC",
+  "bugs": {},
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-real-ip": "^1.0.0",
+    "lodash": "^4.17.4",
+    "winston": "^2.3.1"
+  }
+}
